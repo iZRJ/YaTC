@@ -21,11 +21,14 @@ The training strategy of YaTC is divided into two stages: pre-training stage and
 Path: ./output_dir/pretrained-model.pth
 ```
 
+Pre-trained model [Link](https://drive.google.com/file/d/1wWmZN87NgwujSd2-o5nm3HaQUIzWlv16/view?usp=drive_link)
+
 ## Datasets Information
 
 ```
 Path: ./data
 ```
+Datasets [Link](https://drive.google.com/file/d/1znKQpZ704Bh4EkaHUBJwztYgflFXPnHI/view?usp=sharing)
 
 ### number of class
 
@@ -40,6 +43,7 @@ Path: ./data
 - models_YaTC: the code of the classifier model
 - pre-train.py: the code of pre-training stage
 - fine-tune.py: the code of fine-tuning stage
+
 
 ## Pre-training
 
